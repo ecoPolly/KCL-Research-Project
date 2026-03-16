@@ -1,4 +1,4 @@
-his repository contains the full suite of computational tools and algorithms developed to analyze the stochastic dynamics of proteins under mechanical force, as described in my research on mechanosensitive subdomains (R3 Talin).Core Analysis Features
+This repository contains the full suite of computational tools and algorithms developed to analyze the stochastic dynamics of proteins under mechanical force, as described in my research on mechanosensitive subdomains (R3 Talin).Core Analysis Features
 
 The codebase implements a robust pipeline to extract physical parameters from noisy single-molecule force spectroscopy data:
 
